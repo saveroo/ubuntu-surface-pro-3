@@ -52,10 +52,15 @@ What to do next ? (TypeCover support)
  4. Type as listed below as the terminal opened
 
 > sudo add-apt-repository ppa:tigerite/kernel
+
 > sudo apt-get update
+
 > sudo apt-get upgrade
+
 > sudo apt-get install linux-surface
+
 > sudo apt-get dist-upgrade
+
 > reboot
 
 ## Few of my general packages ##
