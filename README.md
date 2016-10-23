@@ -1,9 +1,11 @@
-[Implicit Lazy Writer] Microsoft Surface Pro 3 + Ubuntu 16.04 (amd64) Installation
+[Implicit Lazy Writer] Installation Guide of Microsoft Surface Pro 3 with Ubuntu 16.04 (amd64)
 ===========================================
 
 Microsoft Surface Pro 3 **(Core i7, 512GB SSD, 8GB of Ram)** with Windows 10 installed
-Secure boot = **[enabled]**
-Bitlocker = **[disabled]**
+
+> Secure boot = **[enabled]**
+
+> Bitlocker = **[disabled]**
 
 ## Peripheral Requirements ##
 
