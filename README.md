@@ -80,3 +80,8 @@ oh-my-zsh
 
 ## Ruby Development with i3wm ##
 **(Not yet)**
+
+## Known Problems ##
+ - Chrome Screen flickering  ( Fixed by installing Microsoft HD5000 driver with little bit of hax )
+ - Atom Screen flickering ( Fixed by installing Microsoft HD5000 driver with little bit of hax )
+ - Sound stuttering
