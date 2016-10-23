@@ -1,4 +1,4 @@
-**[Implicit Lazy Writer] Microsoft Surface Pro 3 + Ubuntu 16.04 (amd64) Installation **
+[Implicit Lazy Writer] Microsoft Surface Pro 3 + Ubuntu 16.04 (amd64) Installation
 ===========================================
 
 Microsoft Surface Pro 3 **(Core i7, 512GB SSD, 8GB of Ram)** with Windows 10 installed
