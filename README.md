@@ -86,8 +86,11 @@ oh-my-zsh
  - Atom Screen flickering ( Fixed by installing Microsoft HD5000 driver with little bit of hax )
  - WiFi/Ethernet connection eventually broke (Fixed by installing driver)
  > git clone git://git.marvell.com/mwifiex-firmware.git
- mkdir -p /lib/firmware/mrvl/
- cp mwifiex-firmware/mrvl/* /lib/firmware/mrvl/
- reboot
+
+ > mkdir -p /lib/firmware/mrvl/
+
+ > cp mwifiex-firmware/mrvl/* /lib/firmware/mrvl/
+
+ > reboot
 
  - Sound stuttering
