@@ -94,4 +94,4 @@ oh-my-zsh
 
  > reboot
 
- - Sound stuttering
+ - Sound stuttering (only with i3 Windows Manager)
