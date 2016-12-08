@@ -64,6 +64,7 @@ Optional
  10. Reboot
 
 What to do next ? (TypeCover support)
+## What to do next ? (TypeCover support)
 --
  1. Find **system settings** by your finger, on top right of the screen
  2. **Universal Access** > **Typings** > Turn on **On screen keyboard**
