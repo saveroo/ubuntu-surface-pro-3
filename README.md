@@ -2,6 +2,7 @@
 ===========================================
 
 #### Table of contents
+1. [Specification & Essential Config](#specification)
 
 
 ------------------------------------
