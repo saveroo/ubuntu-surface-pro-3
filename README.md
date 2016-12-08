@@ -11,6 +11,7 @@
 6. [i3 Window Manager Essential](#i3-window-manager-essential)
 7. [Configuration, Shell and else](#configuration-shell-and-else)
 8. [My Development needs](#my-development-needs)
+9. [Ruby Development with i3wm](#ruby-development-with-i3wm)
 
 
 ------------------------------------
