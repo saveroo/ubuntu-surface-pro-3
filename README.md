@@ -91,6 +91,13 @@ Optional
  - sudo apt-get install i3blocks
  - sudo apt-get install zsh
 
+## Development-kit packages
+ - [Node Version Manager](https://github.com/creationix/nvm)( Node Essential )
+ - [Ruby Version Manager](https://rvm.io/) ( Ruby Essential )
+ - [GitKraken](https://www.gitkraken.com/) ( Pretty good for staging a hunk, clean commit but resource intensive for SP3 )
+ - sudo apt-get install git
+ - sudo apt-get install ubuntu-make
+
 ## i3 Window Manager Essential
  - sudo apt-get install scrot (Screenshot with i3)
  - sudo apt-get install pavucontrol (Volume control)
@@ -99,14 +106,7 @@ Optional
 ## Configuration, Shell and else
  - [oh-my-zsh!](https://github.com/robbyrussell/oh-my-zsh)
 
-## Development-kit packages
- - [Node Version Manager](https://github.com/creationix/nvm)( Node Essential )
- - [Ruby Version Manager](https://rvm.io/) ( Ruby Essential )
- - [GitKraken](https://www.gitkraken.com/) ( Pretty good for staging a hunk, clean commit but resource intensive for SP3 )
- - sudo apt-get install git
- - sudo apt-get install ubuntu-make
-
-## Ruby Development with i3wm
+## Ruby Development
 **(Not yet)**
 
 ## Known Problems
