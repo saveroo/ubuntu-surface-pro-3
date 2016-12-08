@@ -78,11 +78,11 @@ What to do next ? (TypeCover support)
  - sudo apt-get install terminator
  - sudo apt-get install i3
  - sudo apt-get install i3blocks
- - sudo apt-get install pavucontrol
  - sudo apt-get install zsh
 
 ## i3 Window Manager Essential
  - sudo apt-get install scrot (Screenshot with i3)
+ - sudo apt-get install pavucontrol (Volume control)
  - sudo apt-get install feh (Image Viewer)
 
 ## Configuration, Shell and else
