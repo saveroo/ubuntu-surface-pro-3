@@ -79,11 +79,11 @@ What to do next ? (TypeCover support)
  - sudo apt-get install i3
  - sudo apt-get install i3blocks
  - sudo apt-get install feh
- - sudo apt-get install scrot
  - sudo apt-get install pavucontrol
  - sudo apt-get install zsh
 
 ## i3 Window Manager Essential
+ - sudo apt-get install scrot (Screenshot with i3)
 
 ## Configuration, Shell and else
  - [oh-my-zsh!](https://github.com/robbyrussell/oh-my-zsh)
