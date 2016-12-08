@@ -88,6 +88,7 @@ What to do next ? (TypeCover support)
  - [oh-my-zsh!](https://github.com/robbyrussell/oh-my-zsh)
 
 ## Development-kit packages
+ - [Node Version Manager](https://github.com/creationix/nvm)( Node Essential )
 ## Ruby Development with i3wm
 **(Not yet)**
 
