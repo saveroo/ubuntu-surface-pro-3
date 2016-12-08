@@ -82,7 +82,6 @@ What to do next ? (TypeCover support)
  - sudo apt-get install scrot
  - sudo apt-get install pavucontrol
  - sudo apt-get install zsh
- - sudo apt-get install ubuntu-make
 
 ## Configuration, Shell and else
  - [oh-my-zsh!](https://github.com/robbyrussell/oh-my-zsh)
@@ -92,6 +91,7 @@ What to do next ? (TypeCover support)
  - [Ruby Version Manager](https://rvm.io/) ( Ruby Essential )
  - [GitKraken](https://www.gitkraken.com/) ( Pretty good for staging a hunk, clean commit but resource intensive for SP3 )
  - sudo apt-get install git
+ - sudo apt-get install ubuntu-make
 ## Ruby Development with i3wm
 **(Not yet)**
 
