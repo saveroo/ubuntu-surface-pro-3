@@ -10,6 +10,7 @@
 5. [Few of my Starter-kit packages](#few-of-my-starter-kit-packages)
 6. [i3 Window Manager Essential](#i3-window-manager-essential)
 7. [Configuration, Shell and else](#configuration-shell-and-else)
+8. [My Development needs](#my-development-needs)
 
 
 ------------------------------------
