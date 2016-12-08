@@ -83,6 +83,8 @@ What to do next ? (TypeCover support)
  - sudo apt-get install pavucontrol
  - sudo apt-get install zsh
 
+## i3 Window Manager Essential
+
 ## Configuration, Shell and else
  - [oh-my-zsh!](https://github.com/robbyrussell/oh-my-zsh)
 
