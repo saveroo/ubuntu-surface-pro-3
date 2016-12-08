@@ -1,6 +1,10 @@
 [Implicit Lazy Writer] Installation Guide of Microsoft Surface Pro 3 with Ubuntu 16.04 (amd64)
 ===========================================
 
+#### Table of contents
+
+
+------------------------------------
 
 ## Specification
 
