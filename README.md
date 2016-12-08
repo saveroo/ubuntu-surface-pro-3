@@ -87,6 +87,7 @@ What to do next ? (TypeCover support)
 ## Configuration, Shell and else
  - [oh-my-zsh!](https://github.com/robbyrussell/oh-my-zsh)
 
+## Development-kit packages
 ## Ruby Development with i3wm
 **(Not yet)**
 
