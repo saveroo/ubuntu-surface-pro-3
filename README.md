@@ -5,6 +5,7 @@
 1. [Specification & Essential Config](#specification)
 2. [Peripheral Requirement](#peripheral-requirements)
 3. [Software Requirements](#software-requirements)
+4. [Installation Step](#installation-step)
 
 
 ------------------------------------
