@@ -12,6 +12,7 @@
 7. [Configuration, Shell and else](#configuration-shell-and-else)
 8. [My Development needs](#my-development-needs)
 9. [Ruby Development with i3wm](#ruby-development-with-i3wm)
+10. [Known Problems](#known-problems)
 
 
 ------------------------------------
