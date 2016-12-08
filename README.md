@@ -6,7 +6,7 @@
 2. [Peripheral Requirement](#peripheral-requirements)
 3. [Software Requirements](#software-requirements)
 4. [Installation Step](#installation-step)
-5. [What to do next ? (TypeCover support)](#what-to-do-next-tyoecover-support)
+5. [What to do next ? (TypeCover support)](#what-to-do-next--typecover-support)
 6. [Starter-kit packages](#starter-kit-packages)
 7. [i3 Window Manager Essential](#i3-window-manager-essential)
 8. [Configuration, Shell and else](#configuration-shell-and-else)
