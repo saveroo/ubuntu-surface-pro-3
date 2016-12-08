@@ -7,11 +7,11 @@
 3. [Software Requirements](#software-requirements)
 4. [Installation Step](#installation-step)
 5. [What to do next ? (TypeCover support)](#what-to-do-next-tyoecover-support)
-6. [Starter-kit packages](#few-of-my-starter-kit-packages)
+6. [Starter-kit packages](#starter-kit-packages)
 7. [i3 Window Manager Essential](#i3-window-manager-essential)
 8. [Configuration, Shell and else](#configuration-shell-and-else)
-9. [Development-kit packages](#my-development-needs)
-10. [Ruby Development](#ruby-development-with-i3wm)
+9. [Development-kit packages](#development-kid-packages)
+10. [Ruby Development](#ruby-development)
 11. [Known Problems](#known-problems)
 
 
