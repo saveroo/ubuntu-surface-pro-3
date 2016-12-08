@@ -18,6 +18,7 @@
 ------------------------------------
 
 ## Specification
+[Back to Top](#table-of-contents)
 
 Microsoft Surface Pro 3 **(Core i7, 512GB SSD, 8GB of Ram)** with Windows 10 installed
 
@@ -25,6 +26,7 @@ Microsoft Surface Pro 3 **(Core i7, 512GB SSD, 8GB of Ram)** with Windows 10 ins
 > - Bitlocker = **[disabled]**
 
 ## Peripheral Requirements
+[Back to Top](#table-of-contents)
 
 Mandatory
 
@@ -37,12 +39,14 @@ Optional
 >  3. Ethernet Adapter
 
 ## Software Requirements
+[Back to Top](#table-of-contents)
 
  1. Download Unetbootin for windows https://unetbootin.github.io/
  2. Download Ubuntu 16.04 LTS https://www.ubuntu.com/download/desktop
 
 
 ## Installation step
+[Back to Top](#table-of-contents)
 
  1. Shrink the space for at least +50gb **(Do not format it first)**
  2. Burn the **Ubuntu iso** through **unetbootin** to your **USB**
@@ -64,7 +68,8 @@ Optional
  10. Reboot
 
 ## What to do next ? (TypeCover support)
---
+[Back to Top](#table-of-contents)
+
  1. Find **system settings** by your finger, on top right of the screen
  2. **Universal Access** > **Typings** > Turn on **On screen keyboard**
  3. Find **Terminal** and Open it
@@ -85,6 +90,7 @@ Optional
 ---
 
 ## Starter-kit packages
+[Back to Top](#table-of-contents)
 
  - sudo apt-get install terminator
  - sudo apt-get install i3
@@ -92,6 +98,8 @@ Optional
  - sudo apt-get install zsh
 
 ## Development-kit packages
+[Back to Top](#table-of-contents)
+
  - [Node Version Manager](https://github.com/creationix/nvm)( Node Essential )
  - [Ruby Version Manager](https://rvm.io/) ( Ruby Essential )
  - [GitKraken](https://www.gitkraken.com/) ( Pretty good for staging a hunk, clean commit but resource intensive for SP3 )
@@ -99,6 +107,8 @@ Optional
  - sudo apt-get install ubuntu-make
 
 ## i3 Window Manager Essential
+[Back to Top](#table-of-contents)
+
  - sudo apt-get install scrot (Screenshot with i3)
  - sudo apt-get install pavucontrol (Volume control)
  - sudo apt-get install feh (Image Viewer)
@@ -107,9 +117,13 @@ Optional
  - [oh-my-zsh!](https://github.com/robbyrussell/oh-my-zsh)
 
 ## Ruby Development
+[Back to Top](#table-of-contents)
+
 **(Not yet)**
 
 ## Known Problems
+[Back to Top](#table-of-contents)
+
  - Chrome Screen flickering  ( Fixed by installing Microsoft HD5000 driver with little bit of hax )
  - Atom Screen flickering ( Fixed by installing Microsoft HD5000 driver with little bit of hax )
  - WiFi/Ethernet connection eventually broke (Fixed by installing driver)
@@ -122,3 +136,5 @@ Optional
  > reboot
 
  - Sound stuttering (only with i3 Windows Manager)
+
+[Back to Top](#table-of-contents)
