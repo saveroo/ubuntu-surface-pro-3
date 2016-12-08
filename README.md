@@ -64,7 +64,9 @@ What to do next ? (TypeCover support)
 
 > reboot
 
-## Few of my general packages ##
+---
+
+## Starter-kit packages
 
  - sudo apt-get install terminator
  - sudo apt-get install i3
