@@ -6,7 +6,7 @@ Microsoft Surface Pro 3 **(Core i7, 512GB SSD, 8GB of Ram)** with Windows 10 ins
 > - Secure boot = **[enabled]**
 > - Bitlocker = **[disabled]**
 
-## Peripheral Requirements ##
+## Peripheral Requirements
 
 Mandatory
 
@@ -18,13 +18,13 @@ Optional
 >  2. USB 3 Hub
 >  3. Ethernet Adapter
 
-## Software Requirements ##
+## Software Requirements
 
  1. Download Unetbootin for windows https://unetbootin.github.io/
  2. Download Ubuntu 16.04 LTS https://www.ubuntu.com/download/desktop
 
 
-## Installation step ##
+## Installation step
 
  1. Shrink the space for at least +50gb **(Do not format it first)**
  2. Burn the **Ubuntu iso** through **unetbootin** to your **USB**
@@ -79,10 +79,10 @@ What to do next ? (TypeCover support)
 oh-my-zsh
 > https://github.com/robbyrussell/oh-my-zsh
 
-## Ruby Development with i3wm ##
+## Ruby Development with i3wm
 **(Not yet)**
 
-## Known Problems ##
+## Known Problems
  - Chrome Screen flickering  ( Fixed by installing Microsoft HD5000 driver with little bit of hax )
  - Atom Screen flickering ( Fixed by installing Microsoft HD5000 driver with little bit of hax )
  - WiFi/Ethernet connection eventually broke (Fixed by installing driver)
