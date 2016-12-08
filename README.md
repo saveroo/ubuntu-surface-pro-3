@@ -94,6 +94,7 @@ What to do next ? (TypeCover support)
  - [GitKraken](https://www.gitkraken.com/) ( Pretty good for staging a hunk, clean commit but resource intensive for SP3 )
  - sudo apt-get install git
  - sudo apt-get install ubuntu-make
+
 ## Ruby Development with i3wm
 **(Not yet)**
 
