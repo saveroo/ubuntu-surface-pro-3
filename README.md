@@ -89,6 +89,7 @@ What to do next ? (TypeCover support)
 
 ## Development-kit packages
  - [Node Version Manager](https://github.com/creationix/nvm)( Node Essential )
+ - [Ruby Version Manager](https://rvm.io/) ( Ruby Essential )
 ## Ruby Development with i3wm
 **(Not yet)**
 
