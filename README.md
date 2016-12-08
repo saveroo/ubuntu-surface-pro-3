@@ -6,6 +6,7 @@
 2. [Peripheral Requirement](#peripheral-requirements)
 3. [Software Requirements](#software-requirements)
 4. [Installation Step](#installation-step)
+4. [What to do next ? (TypeCover support)](#what-to-do-next-tyoecover-support)
 
 
 ------------------------------------
