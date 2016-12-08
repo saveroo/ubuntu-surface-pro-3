@@ -84,9 +84,8 @@ What to do next ? (TypeCover support)
  - sudo apt-get install zsh
  - sudo apt-get install ubuntu-make
 
-## Configuration and else ##
-oh-my-zsh
-> https://github.com/robbyrussell/oh-my-zsh
+## Configuration, Shell and else
+ - [oh-my-zsh!](https://github.com/robbyrussell/oh-my-zsh)
 
 ## Ruby Development with i3wm
 **(Not yet)**
