@@ -90,6 +90,7 @@ What to do next ? (TypeCover support)
 ## Development-kit packages
  - [Node Version Manager](https://github.com/creationix/nvm)( Node Essential )
  - [Ruby Version Manager](https://rvm.io/) ( Ruby Essential )
+ - [GitKraken](https://www.gitkraken.com/) ( Pretty good for staging a hunk, clean commit but resource intensive for SP3 )
 ## Ruby Development with i3wm
 **(Not yet)**
 
