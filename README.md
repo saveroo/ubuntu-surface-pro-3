@@ -108,13 +108,26 @@ Optional
 
 ## i3 Window Manager Essential
 [Back to Top](#table-of-contents)
-
- - sudo apt-get install scrot (Screenshot with i3)
- - sudo apt-get install pavucontrol (Volume control)
- - sudo apt-get install feh (Image Viewer)
-
+```
+sudo apt-get install scrot (Screenshot with i3)
+sudo apt-get install pavucontrol (Volume control)
+sudo apt-get install feh (Image Viewer)
+```
 ## Configuration, Shell and else
  - [oh-my-zsh!](https://github.com/robbyrussell/oh-my-zsh)
+ - [Terminology](https://www.enlightenment.org/download)
+ ```
+ sudo add-apt-repository ppa:enlightenment-git/ppa
+ sudo apt-get update
+ sudo apt-get install terminology
+ ```
+ - [Streamlink](https://streamlink.github.io/install.html)
+ ```
+ sudo add-apt-repository ppa:nilarimogard/webupd8
+ sudo apt update
+ sudo apt install streamlink
+ ```
+ - [Xiki](http://xiki.org/)
 
 ## Ruby Development
 [Back to Top](#table-of-contents)
@@ -136,5 +149,14 @@ Optional
  > reboot
 
  - Sound stuttering (only with i3 Windows Manager)
+ - Bluetooth Mouse on i3wm (Microsoft Bluetooth Mouse 3600)
+ > sudo apt-get install bluetooth bluez blueman
+
+ >sudo bluetoothctl
+ >[bluetooth]# power on  
+ >[bluetooth]# scan on  
+ >[bluetooth]# trust XXXX  
+ >[bluetooth]# pair XXXX
+ >Click your mouse button few times if it connected automatically, if not [bluetooth]# connect XXXX  
 
 [Back to Top](#table-of-contents)
