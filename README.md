@@ -24,6 +24,7 @@ Microsoft Surface Pro 3 **(Core i7, 512GB SSD, 8GB of Ram)** with Windows 10 ins
 
 > - Secure boot = **[enabled]**
 > - Bitlocker = **[disabled]**
+> - Hyper-V = **[disabled]**
 
 ## Peripheral Requirements
 [Back to Top](#table-of-contents)
